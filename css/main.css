@@ -1,0 +1,28 @@
+form {
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+label {
+    text-align:left;
+    width:150px;
+    display:block;
+    float:left;
+    clear:right;
+}
+button {
+    float: right;
+    clear: left;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+}
