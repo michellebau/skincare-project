@@ -23,12 +23,33 @@ section {
 section h2 {
     text-align: center;
 }
+h2 {
+    padding-top: .5%;
+}
 aside {
     width: 30%;
     float: left;
     padding: 20px 0 0 2%;
 }
-
+aside card {
+    padding: .25em 0;
+}
+.card-deck {
+    padding-top: 2%;
+}
+#contact_form {
+    background-color: #ffe6e6;
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 20px;
+    padding: 30px;
+}
+.jumbotron {
+    height: 380px !important;
+    background-color: #ffe6e6 !important;
+    border-radius: 15px !important;
+}
 .footer {
     position: fixed;
     left: 0;
@@ -40,3 +61,4 @@ aside {
     padding: 10px;
     font-size: 1rem;
 }
+/*DEVELOPER: Michelle Bautista, IS117-005, Fall 2020 */
