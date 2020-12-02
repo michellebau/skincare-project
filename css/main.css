@@ -15,6 +15,20 @@ button {
     clear: left;
 }
 
+section {
+    width: 60%;
+    float: right;
+    padding: 10px 5% 0 2.5%;
+}
+section h2 {
+    text-align: center;
+}
+aside {
+    width: 30%;
+    float: left;
+    padding: 20px 0 0 2%;
+}
+
 .footer {
     position: fixed;
     left: 0;
